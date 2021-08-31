@@ -1,4 +1,4 @@
-﻿# Proyecto #2: DataLovers (Javiera Herrera & Valeria Argomedo)
+﻿# Proyecto #2: DataLovers (Javiera Herrera 2 & Valeria Argomedo)
 
 * Link a la Página (gh-pages): https://venicedakker.github.io/SCL017-data-lovers/ 
 * Link Figma: [Prototipo de Alta Fidelidad ](https://www.figma.com/file/fxpUJgdxYroRBwpN3yXuvC/DataLovers-Herrera-and-Argomedo)
